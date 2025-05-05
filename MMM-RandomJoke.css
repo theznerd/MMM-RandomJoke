@@ -1,0 +1,37 @@
+/* MMM-RandomJoke.css */
+
+.mmm-random-joke {
+    width: 100%;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.joke-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.joke-type {
+    color: #FFD700;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.joke-setup {
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+
+.joke-punchline {
+    color: #AAA;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.joke-id {
+    opacity: 0.5;
+    margin-top: 10px;
+}
